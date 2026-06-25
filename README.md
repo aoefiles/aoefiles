@@ -4,7 +4,7 @@ I'm **Firyal Aufa**, an Informatics Student at Universitas Jenderal Soedirman.
 
 🚀 Interested in **Data Analytics**, **Business Operations**, and **Technology-Driven Problem Solving**
 
-💡 Passionate about transforming data into actionable insights and building solutions that create real-world impact.
+Passionate about transforming data into actionable insights and building solutions that create real-world impact.
 
 ### Connect with Me
 
