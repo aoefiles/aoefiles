@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**aoefiles/aoefiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Firy Al Aufa**, an Informatics Student at Universitas Jenderal Soedirman.
 
-Here are some ideas to get you started:
+🚀 Interested in **Data Analytics**, **Business Operations**, and **Technology-Driven Problem Solving**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Passionate about transforming data into actionable insights and building solutions that create real-world impact.
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/firyalaufa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?logo=vercel)](https://firyalaufa.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:firyalaufa23@gmail.com)
+
+---
+
+*"Turning Data into Insights and Decisions into Impact."*
+
