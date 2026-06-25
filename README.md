@@ -6,6 +6,10 @@ I'm **Firyal Aufa**, an Informatics Student at Universitas Jenderal Soedirman.
 
 Passionate about transforming data into actionable insights and building solutions that create real-world impact.
 
+### 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aoefiles&show_icons=true)
+
 ### Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/firyalaufa/)
