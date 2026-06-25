@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Firy Al Aufa**, an Informatics Student at Universitas Jenderal Soedirman.
+I'm **Firyal Aufa**, an Informatics Student at Universitas Jenderal Soedirman.
 
 🚀 Interested in **Data Analytics**, **Business Operations**, and **Technology-Driven Problem Solving**
 
